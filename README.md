@@ -1,6 +1,6 @@
-# aug_real_flutter
+# Flutter_AugmentedReality
 
-A new Flutter project.
+Basic implementation of Augmented Reality in Flutter Application.
 
 ## Getting Started
 
